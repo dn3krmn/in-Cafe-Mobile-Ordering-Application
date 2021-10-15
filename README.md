@@ -16,4 +16,13 @@
 
 ![Ekran Görüntüsü (18)](https://user-images.githubusercontent.com/61933783/137536899-e69fe9a4-6ff5-4d2c-989f-4883945c42d4.png)
 
-**: Ödeme Seçenekleri Ekranı**
+**Ödeme Seçenekleri Ekranı**
+
+![drawerar](https://user-images.githubusercontent.com/61933783/137537118-12e5bc63-a49b-445d-9e5a-078c3f85f148.png)
+
+**Yan Menü ve Artırılmış Gerçeklik Ekranı**
+
+![arhamburger](https://user-images.githubusercontent.com/61933783/137537237-e8439466-732c-4e6f-b9af-c4314d61cf2a.png)
+
+**Hamburger Artırılmı¸s Gerçeklik Ekranı**
+
