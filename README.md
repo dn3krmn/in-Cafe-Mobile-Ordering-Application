@@ -53,4 +53,15 @@ _**YÖNETİCİ ARAYÜZÜ**_
 
 **Ürün Ekleme Ekranı**
 
+![Ekran Görüntüsü (26)](https://user-images.githubusercontent.com/61933783/137539468-9c5a9cae-c8fd-4e6c-abd3-9f73e5045683.png)
+
+**Ürün ve Kategori Listeleme Ekleme**
+
+![Ekran Görüntüsü (28)](https://user-images.githubusercontent.com/61933783/137539587-e28b1b14-cd25-425e-8433-2c0ac28dab48.png)
+
+**QR Kod Oluşturma ve Listeleme Ekleme**
+
+![Ekran Görüntüsü (30)](https://user-images.githubusercontent.com/61933783/137539760-ee97bfa7-0d98-424c-a018-66ece20ed46f.png)
+
+**Onaylanan Sipari¸sler Ekranı**
 
