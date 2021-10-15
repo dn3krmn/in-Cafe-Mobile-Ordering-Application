@@ -1,0 +1,50 @@
+{
+  materials: [
+    {
+      name: 'BANH_VONG_MIN',
+      parameters: [
+        {
+          baseColor: 'BANH VONG MIN',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/BANH VONG MIN.obj',
+    name: 'BANH VONG MIN',
+    recenter: 'root',
+    scale: 0.69250100000000003,
+  },
+  samplers: [
+    {
+      file: 'sampledata\\BANH VONG MIN.jpg',
+      name: 'BANH VONG MIN',
+      pipeline_name: 'BANH VONG MIN.jpg',
+    },
+  ],
+  version: '0.54:2',
+}

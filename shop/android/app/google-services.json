@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217044377985",
+    "project_id": "shop-306bd",
+    "storage_bucket": "shop-306bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217044377985:android:bb9e7960733e45b522c880",
+        "android_client_info": {
+          "package_name": "com.inci.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217044377985-gdcsrtk4hltjnl9dnfbqhaqiisuh9up7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-cBJ_cr8SwMm_mza73QIZctoyhajpImM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217044377985-gdcsrtk4hltjnl9dnfbqhaqiisuh9up7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
