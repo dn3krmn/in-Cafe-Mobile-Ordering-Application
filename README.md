@@ -33,13 +33,24 @@ _**KULLANICI ARAYÜZÜ**_
 _**YÖNETİCİ ARAYÜZÜ**_
 
 
-
 ![yoneticiislem](https://user-images.githubusercontent.com/61933783/137538475-84e9dc5c-610d-49c7-8db1-cf0ba5dc538b.png)
 
 
 **Yönetici Giri¸s Ekranı ve Yönetici ˙I¸slemleri Ekranı**
 
-![Ekran Görüntüsü (23)](https://user-images.githubusercontent.com/61933783/137538606-c4a2d3d0-a0c8-4437-b8e6-1901820c0030.png)
+![Ekran Görüntüsü (23)](https://user-images.githubusercontent.com/61933783/137538942-dd178592-2d23-4b61-bc5a-b68eec852a6f.png)
 
 **Masalar Ekranı**
+
+![Ekran Görüntüsü (24)](https://user-images.githubusercontent.com/61933783/137539167-58f04289-7655-4777-9076-45036b8497e4.png)
+
+**Sipariş Detay Ekranı**
+![kategoriekle](https://user-images.githubusercontent.com/61933783/137539274-ba0709b5-9e88-40c1-8cdb-71a07c463da9.png)
+
+**Kategori Ekleme Ekranı**
+
+![urunekleme](https://user-images.githubusercontent.com/61933783/137539278-edc77a2f-d6f3-4ee3-90f1-3cef36c3922e.png)
+
+**Ürün Ekleme Ekranı**
+
 
